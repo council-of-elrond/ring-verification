@@ -1,0 +1,22 @@
+= ring-verification =
+
+Use the `is-this-that-one-ring.sh` script to verify the identity of the `One Ring`, if ever you find yourself wondering if the ring you have is that one.
+
+```bash
+./is-this-that-one-ring.sh that-one-ring
+Yes.
+./is-this-that-one-ring.sh a-different-ring
+No.
+```
+
+== Alternative Method ==
+
+It has been reported that if you heat the ring, such as by throwing it in
+a fire, the following text can be discerned on it:
+
+```
+Ash nazg durbatulûk, ash nazg gimbatul, ash nazg thrakatulûk, agh burzum-ishi krimpatul
+```
+
+Note: If you have the One Ring, and you reveal the above text, please be sure
+not to read it aloud in the tongue of Mordor.
